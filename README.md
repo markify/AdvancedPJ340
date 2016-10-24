@@ -15,5 +15,5 @@ https://github.com/fffaraz/awesome-cpp#game-engine</p>
 <p>Game Engine - Cocos2d-x </p>
 
 #10-23-2016 
-Setup Coco2dx compilers / c++ framework
-Android Studio integration with coco2dx
+<p>Setup Coco2dx compilers / c++ framework</p>
+<p>Android Studio integration with coco2dx</p>
