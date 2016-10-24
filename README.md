@@ -13,3 +13,7 @@ Cocos2d-x is an open source, cross-platform game engine. It is loaded with power
 <p>
 https://github.com/fffaraz/awesome-cpp#game-engine</p>
 <p>Game Engine - Cocos2d-x </p>
+
+#10-23-2016 
+Setup Coco2dx compilers / c++ framework
+Android Studio integration with coco2dx
