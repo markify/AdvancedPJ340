@@ -1,53 +1,53 @@
 # AdvancedPJ340
 2D Action Endless Runner
-Platform: Android 
-Game Engine: Cocos2d-x C++ Game Engine 
+<p>Platform: Android </p>
+<p>Game Engine: Cocos2d-x C++ Game Engine </p>
 
 #Sketch Prototype / Wiki Details       				10.29.2016
--Gameplay 
--Enemies / Main Character
--Enemies / Obstacles
--Wiki Page
--Endless Map Design
--User Interface
-
+<ul>
+<li>-Gameplay </li>
+<li>-Enemies / Main Character </li>
+<li>-Enemies / Obstacles      </li>
+<li>-Wiki Page                </li>
+<li>-Endless Map Design       </li>
+<li>-User Interface           </li>
+</ul>
 #Main Menu / Switch Screen / Interface / Photoshop Work		11.5.2016
--Photoshop Work
- -Main Menu Design
- -Loading Screen Design
- -Game Background Design
--Interactive Main Menu / Switching Screens
--Create Character Design
+<li>-Photoshop Work </li>
+<li> -Main Menu Design </li>
+<li> -Loading Screen Design </li>
+<li>-Game Background Design </li>
+<li>-Interactive Main Menu / Switching Screens </li>
+<li>-Create Character Design </li>
 
 #Character Sprites/ Animated Background				11.12.2016
--Integrate Character Sprites 
--Moving Animated Background
-
+<li>-Integrate Character Sprites </li>
+<li>-Moving Animated Background</li>
 
 #Character Animation / Physics / Collision			11.19.2016
 Android Phones
--Tap to Jump
--Gesture to Duck
-Physics Jump Gravity 
-Speeds Up on item Boost
--Collide with obstacle entity exits game
--Collide with item boost / points increase point system , changes physics
+<li>-Tap to Jump</li>
+<li>-Gesture to Duck</li>
+<li>-Physics Jump Gravity </li>
+<li>-Speeds Up on item Boost</li>
+<li>-Collide with obstacle entity exits game</li>
+<li>-Collide with item boost / points increase point system , changes physics</li>
 
 #Stage Building							                 11.26.2016
--Generate Points
--Generate Enemies, Rocks, Spikes (Sprites)
--Increment Difficulty as stage increases
--Generate Background and Background Transitions as Score Increases
-Sound Integration					                	12.5.2016
-Sounds when jump
-loading screen music
-In game music
-collide with enemy/obstacle entity splash sound
+<li>-Generate Points
+<li>-Generate Enemies, Rocks, Spikes (Sprites)
+<li>-Increment Difficulty as stage increases
+<li>-Generate Background and Background Transitions as Score Increases
+#Sound Integration					                	12.5.2016
+<li>Sounds when jump</li>
+<li>loading screen music</li>
+<li>In game music</li>
+<li>collide with enemy/obstacle entity splash sound</li>
 
 #Implement Settings Button in Main Menu and In Game		12.12.2016
-Pause Button
-Polish Game 
-Increase Performance
+<li>Pause Button</li>
+<li>Polish Game</li> 
+<li>Increase Performance</li>
 
 
 This game project will be using Coco2dx ![image](http://media.pocketgamer.biz/2014/5/18898/cocos2d-x-r100x100.jpg)
