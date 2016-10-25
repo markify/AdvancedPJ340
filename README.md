@@ -23,12 +23,12 @@
 <li>Moving Animated Background</li>
 
 <h3>Character Animation / Physics / Collision	</h3>		11.19.2016
-Android Phones
+<li>Controls</li>
 <li>Tap to Jump</li>
 <li>Gesture to Duck</li>
 <li>Physics Jump Gravity </li>
 <li>Speeds Up on item Boost</li>
-<li>Collide with obstacle entity exits game</li>
+<li>Collide with obstacle entity reset stage / show score</li>
 <li>Collide with item boost / points increase point system , changes physics</li>
 
 <h3>Stage Building</h3>				                 11.26.2016
@@ -36,6 +36,7 @@ Android Phones
 <li>Generate Enemies, Rocks, Spikes (Sprites)
 <li>Increment Difficulty as stage increases
 <li>Generate Background and Background Transitions as Score Increases
+
 <h3>Sound Integration		</h3>			                	12.5.2016
 <li>Sounds when jump</li>
 <li>loading screen music</li>
