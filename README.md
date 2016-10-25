@@ -42,7 +42,7 @@ Android Phones
 <li>In game music</li>
 <li>collide with enemy/obstacle entity splash sound</li>
 
-<h3>mplement Settings Button in Main Menu and In Game</h3>		12.12.2016
+<h3>Implement Settings Button in Main Menu and In Game</h3>		12.12.2016
 <li>Pause Button</li>
 <li>Polish Game</li> 
 <li>Increase Performance</li>
