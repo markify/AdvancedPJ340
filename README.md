@@ -4,7 +4,7 @@
 <p>Game Engine: Cocos2d-x - C++ Game Engine </p>
 <p>https://github.com/fffaraz/awesome-cpp</p>
 <h3 align="center">Milestone</h3>
-<h3>Implement Prototype / Wiki Details </h3>      				10.29.2016
+<h3>Wiki Details / Blueprint </h3>      				10.29.2016
 <li>-Gameplay </li>
 <li>-Enemies / Main Character </li>
 <li>-Enemies / Obstacles      </li>
