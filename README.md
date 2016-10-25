@@ -10,7 +10,7 @@
 <li>-Wiki Page                </li>
 <li>-Endless Map Design       </li>
 <li>-User Interface           </li>
-#Main Menu / Switch Screen / Interface / Photoshop Work		11.5.2016
+<h3>Main Menu / Switch Screen / Interface / Photoshop Work</h3>		11.5.2016
 <li>Photoshop Work </li>
 <li>Main Menu Design </li>
 <li>Loading Screen Design </li>
@@ -18,11 +18,11 @@
 <li>Interactive Main Menu / Switching Screens </li>
 <li>Create Character Design </li>
 
-#Character Sprites/ Animated Background				11.12.2016
+<h3>Character Sprites/ Animated Background</h3>				11.12.2016
 <li>Integrate Character Sprites </li>
 <li>Moving Animated Background</li>
 
-#Character Animation / Physics / Collision			11.19.2016
+<h3>Character Animation / Physics / Collision	</h3>		11.19.2016
 Android Phones
 <li>Tap to Jump</li>
 <li>Gesture to Duck</li>
@@ -31,18 +31,18 @@ Android Phones
 <li>Collide with obstacle entity exits game</li>
 <li>Collide with item boost / points increase point system , changes physics</li>
 
-#Stage Building							                 11.26.2016
+<h3>Stage Building</h3>				                 11.26.2016
 <li>Generate Points
 <li>Generate Enemies, Rocks, Spikes (Sprites)
 <li>Increment Difficulty as stage increases
 <li>Generate Background and Background Transitions as Score Increases
-#Sound Integration					                	12.5.2016
+<h3>Sound Integration		</h3>			                	12.5.2016
 <li>Sounds when jump</li>
 <li>loading screen music</li>
 <li>In game music</li>
 <li>collide with enemy/obstacle entity splash sound</li>
 
-#Implement Settings Button in Main Menu and In Game		12.12.2016
+<h3>mplement Settings Button in Main Menu and In Game</h3>		12.12.2016
 <li>Pause Button</li>
 <li>Polish Game</li> 
 <li>Increase Performance</li>
