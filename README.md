@@ -3,7 +3,7 @@
 <p>Platform: Android </p>
 <p>Game Engine: Cocos2d-x - C++ Game Engine </p>
 <p>https://github.com/fffaraz/awesome-cpp</p>
-<h4>Sketch Prototype / Wiki Details <h4>      				10.29.2016
+<h3>Sketch Prototype / Wiki Details </h3>      				10.29.2016
 <li>-Gameplay </li>
 <li>-Enemies / Main Character </li>
 <li>-Enemies / Obstacles      </li>
