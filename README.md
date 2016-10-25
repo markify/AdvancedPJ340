@@ -3,7 +3,7 @@
 Platform: Android 
 Game Engine: Cocos2d-x C++ Game Engine 
 
-Sketch Prototype / Wiki Details       				10.29.2016
+#Sketch Prototype / Wiki Details       				10.29.2016
 -Gameplay 
 -Enemies / Main Character
 -Enemies / Obstacles
@@ -11,7 +11,7 @@ Sketch Prototype / Wiki Details       				10.29.2016
 -Endless Map Design
 -User Interface
 
-Main Menu / Switch Screen / Interface / Photoshop Work		11.5.2016
+#Main Menu / Switch Screen / Interface / Photoshop Work		11.5.2016
 -Photoshop Work
  -Main Menu Design
  -Loading Screen Design
@@ -19,12 +19,12 @@ Main Menu / Switch Screen / Interface / Photoshop Work		11.5.2016
 -Interactive Main Menu / Switching Screens
 -Create Character Design
 
-Character Sprites/ Animated Background				11.12.2016
+#Character Sprites/ Animated Background				11.12.2016
 -Integrate Character Sprites 
 -Moving Animated Background
 
 
-Character Animation / Physics / Collision			11.19.2016
+#Character Animation / Physics / Collision			11.19.2016
 Android Phones
 -Tap to Jump
 -Gesture to Duck
@@ -33,7 +33,7 @@ Speeds Up on item Boost
 -Collide with obstacle entity exits game
 -Collide with item boost / points increase point system , changes physics
 
-Stage Building							                 11.26.2016
+#Stage Building							                 11.26.2016
 -Generate Points
 -Generate Enemies, Rocks, Spikes (Sprites)
 -Increment Difficulty as stage increases
@@ -44,7 +44,7 @@ loading screen music
 In game music
 collide with enemy/obstacle entity splash sound
 
-Implement Settings Button in Main Menu and In Game		12.12.2016
+#Implement Settings Button in Main Menu and In Game		12.12.2016
 Pause Button
 Polish Game 
 Increase Performance
