@@ -5,7 +5,7 @@
 <p>Game Engine: Cocos2d-x - C++ Game Engine </p>
 <p>https://github.com/fffaraz/awesome-cpp</p>
 <h3 align="center">Milestone</h3>
-<h3>Wiki Details / Blueprint </h3>      				10.29.2016
+<h3>Wiki Details / Blueprint ✓ </h3>      				10.29.2016
 * [Gameplay](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)
 * [Enemies / Main Character](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)
 * [Enemies / Obstacles](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)
@@ -13,7 +13,7 @@
 * [Endless Map Design](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
 * [User Interface](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
 
-<h3>Main Menu / Switch Screen / Interface ✓  </h3>		11.5.2016
+<h3>Main Menu / Switch Screen / Interface</h3>		11.5.2016
 * Main Menu Design </li>
 * Loading Screen Design </li>
 * Game Background Design </li>
