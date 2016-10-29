@@ -14,11 +14,11 @@
 * [User Interface](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
 
 <h3>Main Menu / Switch Screen / Interface</h3>		11.5.2016
-* Main Menu Design </li>
-* Loading Screen Design </li>
-* Game Background Design </li>
+* Main Menu </li>
+* Loading Screen </li>
+* Game Background  </li>
 * Interactive Main Menu / Switching Screens </li>
-* Create Character Design </li>
+* Create Character </li>
 
 <h3>Character Sprites/ Animated Background</h3>				11.12.2016
 <li>Integrate Character Sprites </li>
