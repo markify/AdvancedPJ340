@@ -6,14 +6,13 @@
 <p>https://github.com/fffaraz/awesome-cpp</p>
 <h3 align="center">Milestone</h3>
 <h3>Wiki Details / Blueprint </h3>      				10.29.2016
-<li>-Gameplay </li>
-<li>-Enemies / Main Character </li>
-<li>-Enemies / Obstacles      </li>
-<li>-Wiki Page                </li>
-<li>-Endless Map Design       </li>
-<li>-User Interface           </li>
-<h3>Main Menu / Switch Screen / Interface / Photoshop Work</h3>		11.5.2016
-<li>Photoshop Work </li>
+* [Gameplay](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)
+* [Enemies / Main Character](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)
+* [Enemies / Obstacles](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)
+* [Wiki Page](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)
+* [Endless Map Design](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
+* [User Interface](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
+<h3>Main Menu / Switch Screen / Interface </h3>		11.5.2016
 <li>Main Menu Design </li>
 <li>Loading Screen Design </li>
 <li>Game Background Design </li>
