@@ -13,7 +13,7 @@
 * [Endless Map Design](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
 * [User Interface](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
 
-<h3>Main Menu / Switch Screen / Interface </h3>		11.5.2016
+<h3>Main Menu / Switch Screen / Interface ✓  </h3>		11.5.2016
 * Main Menu Design </li>
 * Loading Screen Design </li>
 * Game Background Design </li>
