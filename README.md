@@ -12,12 +12,13 @@
 * [Wiki Page](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)
 * [Endless Map Design](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
 * [User Interface](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
+
 <h3>Main Menu / Switch Screen / Interface </h3>		11.5.2016
-<li>Main Menu Design </li>
-<li>Loading Screen Design </li>
-<li>Game Background Design </li>
-<li>Interactive Main Menu / Switching Screens </li>
-<li>Create Character Design </li>
+* Main Menu Design </li>
+* Loading Screen Design </li>
+* Game Background Design </li>
+* Interactive Main Menu / Switching Screens </li>
+* Create Character Design </li>
 
 <h3>Character Sprites/ Animated Background</h3>				11.12.2016
 <li>Integrate Character Sprites </li>
