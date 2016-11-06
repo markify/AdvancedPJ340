@@ -12,9 +12,13 @@ public:
 
     // a selector callback
     void menuCloseCallback(cocos2d::Ref* pSender);
-    
+
     // implement the "static create()" method manually
     CREATE_FUNC(Loadingscreen);
+};
+private:
+    void LoadMainMenu(float loadtime);
+
 };
 
 #endif // __Loadingscreen_H__
