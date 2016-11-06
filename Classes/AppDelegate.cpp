@@ -1,4 +1,5 @@
 #include "AppDelegate.h"
+#include "Loadingscreen.h"
 
 USING_NS_CC;
 
