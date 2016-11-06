@@ -1,15 +1,15 @@
-#include "Loadingscreen.h"
+#include "MainMenu.h"
 #include "SimpleAudioEngine.h"
 
 USING_NS_CC;
 
-Scene* Loadingscreen::createScene()
+Scene* MainMenu::createScene()
 {
     // 'scene' is an autorelease object
     auto scene = Scene::create();
 
     // 'layer' is an autorelease object
-    auto layer = Loadingscreen::create();
+    auto layer = MainMenu::create();
 
     // add layer as a child to scene
     scene->addChild(layer);
@@ -19,7 +19,7 @@ Scene* Loadingscreen::createScene()
 }
 
 // on "init" you need to initialize your instance
-bool Loadingscreen::init()
+bool MainMenu::init()
 {
     //////////////////////////////
     // 1. super init first
@@ -39,7 +39,7 @@ bool Loadingscreen::init()
     auto closeItem = MenuItemImage::create(
                                            "CloseNormal.png",
                                            "CloseSelected.png",
-                                           CC_CALLBACK_1(Loadingscreen::menuCloseCallback, this));
+                                           CC_CALLBACK_1(MainMenu::menuCloseCallback, this));
 
     closeItem->setPosition(Vec2(origin.x + visibleSize.width - closeItem->getContentSize().width/2 ,
                                 origin.y + closeItem->getContentSize().height/2));
@@ -56,7 +56,7 @@ bool Loadingscreen::init()
     // add the label as a child to this layer
     this->addChild(label, 1);
 
-    // add "Loadingscreen" splash screen"
+    // add "MainMenu" splash screen"
     auto sprite = Sprite::create("");
 
     // position the sprite on the center of the screen
@@ -69,7 +69,7 @@ bool Loadingscreen::init()
 }
 
 
-void Loadingscreen::menuCloseCallback(Ref* pSender)
+void MainMenu::menuCloseCallback(Ref* pSender)
 {
     //Close the cocos2d-x game scene and quit the application
     Director::getInstance()->end();
