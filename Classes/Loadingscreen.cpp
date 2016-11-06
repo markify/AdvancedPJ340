@@ -32,8 +32,8 @@ bool Loadingscreen::init()
     auto visibleSize = Director::getInstance()->getVisibleSize();
     Vec2 origin = Director::getInstance()->getVisibleOrigin();
 
-    this->scheduleOnce( schedule_selector( Loadingscreen::LoadMainMenuScene ), display_time );
-    // add "Loadingscreen" splash screen"
+    //auto loadingbarSprite = Sprite::create("");    implement animated loading in loading screen
+    this->scheduleOnce(schedule_selector(Loadingscreen::LoadMainMenu), display_time);
     auto backgroundSprite = Sprite::create("dreamtaleloadingscreen.jpeg");
 
     // position the sprite on the center of the screen

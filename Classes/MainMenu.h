@@ -15,6 +15,9 @@ public:
 
     // implement the "static create()" method manually
     CREATE_FUNC(MainMenu);
+private:
+      void LoadGame( cocos2d::Ref *sender );
+
 };
 
 #endif // __MainMenu_H__
