@@ -14,29 +14,29 @@
 * [User Interface](https://github.com/merksmanship/AdvancedPJ340/blob/master/gameconceptanduiforgame.png)
 
 <h3>Main Menu / Switch Screen / Interface  ✓</h3>		11.5.2016
-* Main Menu </li>
-* Loading Screen </li>
-* Game Background  </li>
+* Main Menu ✓</li>
+* Loading Screen ✓</li>
+* Game Background  ✓</li>
 * Interactive Main Menu / Switching Screens ✓</li>
-* Create Character </li>
+* Create Character ✓</li>
 
 <h3>Character Sprites/ Animated Background</h3>				11.12.2016
-<li>Integrate Character Sprites </li>
-<li>Moving Animated Background</li>
+<li>Integrate Character Sprites ✓</li>
+<li>Moving Animated Background ✓</li>
 
 <h3>Character Animation / Physics / Collision ✓	</h3>		11.19.2016
-<li>Controls</li>
-<li>Tap to Jump</li>
+<li>Controls ✓</li>
+<li>Tap to Jump ✓ </li>
 <li>Gesture to Duck</li>
-<li>Physics Jump Gravity </li>
+<li>Physics Jump Gravity ✓ </li>
 <li>Speeds Up on item Boost</li>
 <li>Collide with obstacle entity reset stage / show score</li>
 <li>Collide with item boost / points increase point system , changes physics</li>
 
 <h3>Stage Building  ✓ </h3>				                 11.26.2016
-<li>Generate Points
+<li>Generate Points ✓
 <li>Generate Enemies, Rocks, Spikes (Sprites)
-<li>Increment Difficulty as stage increases
+<li>Increment Difficulty as stage increases ✓
 <li>Generate Background and Background Transitions as Score Increases
 
 <h3>Sound Integration		</h3>			                	12.5.2016
@@ -46,7 +46,7 @@
 <li>collide with enemy/obstacle entity splash sound</li>
 
 <h3>Implement Settings Button in Main Menu and In Game ✓</h3>		12.12.2016
-<li>Pause Button</li>
+<li>Pause Button ✓ </li>
 <li>Polish Game</li> 
 <li>Increase Performance</li>
 
