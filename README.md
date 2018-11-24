@@ -7,8 +7,9 @@
 <p>Game Engine: Cocos2d-x - C++ Game Engine </p>
 <p>https://github.com/fffaraz/awesome-cpp</p>
 <h3 align="center">Milestone</h3>
-<h3>Wiki Details / Blueprint ✓ </h3>      				10.29.2016    
-* [Gameplay](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)   
+<h3>Wiki Details / Blueprint ✓ </h3>      				10.29.2016     
+
+* [Gameplay](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)     
 
 * [Enemies / Main Character](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)   
 * [Enemies / Obstacles](https://github.com/merksmanship/AdvancedPJ340/blob/master/Wiki.md)    
