@@ -1,7 +1,6 @@
 # AdvancedPJ340
 2D Action Endless Runner
 <p>Game Name : Dreamtale Runner </p>
-<p> Advanced Project Video Submission : https://www.youtube.com/watch?v=CPBHGaiincQ <p> 
 
 <p>Platform: Android </p>
 <p>Game Engine: Cocos2d-x - C++ Game Engine </p>
